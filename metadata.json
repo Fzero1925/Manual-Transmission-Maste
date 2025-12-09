@@ -1,0 +1,5 @@
+{
+  "name": "Manual Transmission Master",
+  "description": "An interactive simulator to visualize and understand the mechanics of a manual car: engine, clutch, and transmission coordination.",
+  "requestFramePermissions": []
+}
